@@ -1,3 +1,10 @@
+## Installation
+
+Install via composer
+```bash
+composer require mstfblci/movieapi
+```
+
 ### Register Service Provider
 
 **Note! This and next step are optional if you use laravel>=5.5 with package
