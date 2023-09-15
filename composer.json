@@ -1,0 +1,15 @@
+{
+    "name": "mediapiar/movieapi",
+    "description": "This is a task.",
+    "authors": [
+        {
+            "name": "Mustafa Balcı",
+            "email": "madonetr@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8",
+        "illuminate/support": "^10.23",
+        "php": "~7.0|^8.0"
+    }
+}
