@@ -2,7 +2,7 @@
 
 Install via composer
 ```bash
-composer require mstfblci/movieapi
+composer require mediapiar/movieapi
 ```
 
 ### Register Service Provider
